@@ -1,0 +1,5 @@
+# Zinsu AI Dependencies
+sqlalchemy
+alembic
+python-dotenv
+pydantic
