@@ -1,5 +1,9 @@
-# Zinsu AI Dependencies
-sqlalchemy
-alembic
-python-dotenv
-pydantic
+fastapi>=0.110.0
+aiogram>=3.10.0
+sqlalchemy>=2.0.0
+alembic>=1.13.0
+asyncpg>=0.29.0
+apscheduler>=3.10.0
+pydantic-settings>=2.2.0
+python-dotenv>=1.0.0
+uvicorn>=0.28.0
